@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "453925582770",
+    "project_id": "connect-bb8f2",
+    "storage_bucket": "connect-bb8f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453925582770:android:16d2a0adaeb4bad569d6ab",
+        "android_client_info": {
+          "package_name": "com.example.motobase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453925582770-v29oiso48m890ijqldbcs8ud2o6sr9lf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBByIVX5xoYDHEvntYuse_eI-xxt1Nvi5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453925582770-v29oiso48m890ijqldbcs8ud2o6sr9lf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
